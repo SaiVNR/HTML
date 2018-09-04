@@ -1,0 +1,44 @@
+body{
+	background: #76cdd8;
+	font-family: 'Open Sans', sans-serif;
+}
+
+header,footer {
+	background: #2B2D42;
+	color: #8D99AE;
+}
+
+h1,h2 {
+	font-family: 'Caveat', cursive;
+	font-weight: 400;
+}
+header h1,header h2 {
+	color: #EDF2F4;
+}
+
+h1 {
+	font-size: 50px;
+}
+h2 {
+	font-size: 30px;
+}
+
+/*Links*/
+
+a {
+	color: #EF233C;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+/*Work Experience*/
+.work {
+	background: #EDF2F4;
+}
+
+/*Education*/
+.education {
+	background: #8D99AE;
+}
